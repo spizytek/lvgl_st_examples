@@ -1,13 +1,8 @@
-# lvgl_st_examples
-
-Sure, here's a detailed README for an LVGL (Light and Versatile Graphics Library) project that runs all LVGL examples on an STM32F429I DISCOVERY board.
-
----
 
 # LVGL STM32F429I DISCOVERY Project
 
 This project demonstrates the use of LVGL (Light and Versatile Graphics Library) on the STM32F429I DISCOVERY board. It includes all necessary configurations to run LVGL examples on this board.
-
+---
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Hardware Requirements](#hardware-requirements)
@@ -46,7 +41,7 @@ git clone https://github.com/spizytek/lvgl_st_examples.git
 ## Running the Examples
 
 ### Running a Specific Example
-In `main.c`, include the example you want to run:
+In `main.c`, include the example you want to run, navigate to lvgl->examples folder, and choose the example of choice. Call the function from the main.c file, as shown below:
 ```c
 #include "../../lvgl/examples/lv_examples.h"
 
