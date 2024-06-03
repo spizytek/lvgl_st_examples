@@ -41,7 +41,7 @@ git clone https://github.com/spizytek/lvgl_st_examples.git
 ## Running the Examples
 
 ### Running a Specific Example
-In `main.c`, include the example you want to run, navigate to lvgl->examples folder, and choose the example of choice. Call the function from the main.c file, as shown below:
+In `main.c`, include the example you want to run. Navigate to lvgl->examples folder, and choose the example of choice. Call the function from the main.c file, as shown below:
 ```c
 #include "../../lvgl/examples/lv_examples.h"
 
