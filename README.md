@@ -48,13 +48,13 @@ git clone
 ### Running a Specific Example
 In `main.c`, include the example you want to run:
 ```c
-#include "lv_examples/lv_tests/lv_test_theme/lv_test_theme_1.h"
+#include "../../lvgl/examples/lv_examples.h"
 
 int main(void) {
     // System initialization
     lv_test_theme_1();
     while (1) {
-        lv_task_handler();
+        lv_example_calendar_1();
         HAL_Delay(5);
     }
 }
