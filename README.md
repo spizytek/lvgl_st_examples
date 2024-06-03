@@ -64,6 +64,5 @@ You can create a function to run all examples sequentially.
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 - [STM32F429I DISCOVERY Board](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
 
----
 
-Feel free to customize this README to better suit your specific project setup and requirements.
+
