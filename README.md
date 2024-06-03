@@ -1,5 +1,5 @@
 
-# LVGL EXAMPLE PROJECT FOR STM32F429I DISCOVERY BOARD
+# LVGL Example Project For Stm32F429I Discovery Board
 
 This project demonstrates the use of LVGL (Light and Versatile Graphics Library) on the STM32F429I DISCOVERY board. It includes all necessary configurations to run LVGL examples on this board.
 
