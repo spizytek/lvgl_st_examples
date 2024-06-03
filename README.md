@@ -36,7 +36,7 @@ This project has all the necessary parameter set up for the STM32F429I DISCOVERY
 ### 1. Clone the Repository
 Clone the project repository from GitHub:
 ```bash
-[git clone ](https://github.com/spizytek/lvgl_st_examples.git)
+git clone https://github.com/spizytek/lvgl_st_examples.git
 ```
 ## Building and Flashing
 
